@@ -16,3 +16,17 @@
     height: 100%;
     object-fit: cover;
 }
+
+
+/*--------All Margin Bottom---------*/
+.margin-section {
+    margin-bottom: 20px;
+}
+
+.img-section {
+    width: 160px;
+}
+
+.optional {
+    margin-left: -95px;
+}
