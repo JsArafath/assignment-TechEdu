@@ -1,0 +1,18 @@
+/*-----------Slider Section------------*/
+.carousel-caption {
+    margin-bottom: 40px;
+    padding: 14%;
+}
+
+.text-caption {
+    padding: 0% 28%;
+}
+
+.carousel-item {
+    height: 90vh;
+}
+
+.photo-shape {
+    height: 100%;
+    object-fit: cover;
+}
